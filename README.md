@@ -1,6 +1,6 @@
 ### Hello to anyone reading this!
 
-<img src="https://imgur.com/a/9WTKmWb" width="100%" height="400px">
+<img src="https://imgur.com/FROzRMa" width="100%" height="400px" alt="london-eye-portrait">
 
 My name is Theren Stewart, and I'm an aspiring software developer currently studying both front end and back end development at MITT. During my studies, I've evolved my problem solving and critical thinking capabilities as I've learned a plethora of different languages and programming concepts.
 When I'm not working tooth and nail trying to uncover new ways I can achieve excellence with my applications, I'm either advancing my skills in cooking, working on self improvement or doing audio engineering work on the side such as sound design or mixing comissions.
@@ -22,7 +22,7 @@ On my profile, you'll find a selection of the projects I am most proud of. Those
 
 - Github Finder
 
-<img src="https://imgur.com/a/73OjP5Q" width="100%" height="200px">
+<img src="https://imgur.com/ucwknEn" width="100%" height="200px">
 
 - Components / Grocery Store UI Example
   
