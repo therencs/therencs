@@ -22,15 +22,15 @@ On my profile, you'll find a selection of the projects I am most proud of. Those
 
 - Github Finder
 
-<img src="https://i.imgur.com/ucwknEn.png" width="100%" height="200px">
+<img src="https://i.imgur.com/ucwknEn.png" width="900px" height="200px">
 
 - Components / Grocery Store UI Example
   
-<img src="https://i.imgur.com/z2OojwJ.png" width="100%" height="200px">
+<img src="https://i.imgur.com/z2OojwJ.png" width="900px" height="200px">
 
 - Pixel Painter 
 
-<img src="https://i.imgur.com/lsMyfED.png" width="100%" height="200px">
+<img src="https://i.imgur.com/lsMyfED.png" width="900px" height="200px">
 
 
 
