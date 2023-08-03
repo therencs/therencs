@@ -40,3 +40,10 @@ On my profile, you'll find a selection of the projects I am most proud of. Those
 - 📫 How to reach me: evoiredm@gmail.com
 - ⚡ Fun fact: I am a cancer survivor, and have been in remission for 2 years now!
 
+<a href="https://github.com/therencs">
+  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=therencs&theme=vue&show_icons=true" alt="GitHub Stats" />
+</a>
+<p></p>
+<a href="https://github.com/therencs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therencs&theme=vue&hide=Ruby&show_icons=true&langs_count=6" alt="GitHub stats"/>
+</a>
