@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/06WvkG8.png" width="60%" height="60%" alt="london-eye-portrait">
 
 My name is Theren Stewart, and I'm an aspiring software developer currently studying both front end and back end development at MITT. During my studies, I've evolved my problem solving and critical thinking capabilities as I've learned a plethora of different languages and programming concepts.
-When I'm not working tooth and nail trying to uncover new ways I can achieve excellence with my applications, I'm either advancing my skills in cooking, working on self improvement or doing audio engineering work on the side such as sound design or mixing comissions.
+When I'm not fighting tooth and nail to uncover new ways I can improve my applications, I'm either advancing my skills in cooking, working on self improvement or doing audio engineering work on the side such as sound design or mixing comissions.
 
 Currently I have varying skills in:
 
